@@ -1,0 +1,16 @@
+Vraag 1
+/woord om te zoeken
+n om het volgende woord te vinden
+Vraag 2
+-i zorgt ervoor dat je geen rekening houdt met upper of lower case letters
+Vraag 3
+/section brengt je naar een stuk info waar staat dat er normaal gezien 9 sections zijn
+Vraag 4
+help read als je individuele info wilt
+systemcalls zitten in section 2 vandaar de 2
+man 2 read
+sidenote: printf "%d" 78
+
+gcc hello.c -masm=intel -S
+gcc hello.c -c
+nm hello.o
